@@ -1,6 +1,8 @@
-# Breath-based-bio-signal-analyzer-for-disease-detection
+BREATH-BASED BIO SIGNAL ANALYZER FOR DISEASE DETECTION 🌬️🩺
 
 A non-invasive diagnostic tool leveraging gas sensors and deep learning to detect diseases through exhaled breath biomarkers.
+
+Breath analysis has emerged as a promising non-invasive method for disease detection by examining volatile organic compounds (VOCs) and other biomarkers present in human breath. This approach leverages advancements in technology to improve diagnostic accuracy and facilitate early disease detection.
 
 🔍 Key Features
 Biomedical Sensor Array: Utilizes MOS sensors (MiCS-5524, TGS 822) and environmental sensors (DHT22) to detect disease-specific VOCs like acetone (diabetes), benzene (lung cancer), and H₂S/methane (GI disorders).
