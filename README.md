@@ -1,4 +1,4 @@
-#BREATH-BASED BIO SIGNAL ANALYZER FOR DISEASE DETECTION 🌬️🩺
+**BREATH-BASED BIO SIGNAL ANALYZER FOR DISEASE DETECTION 🌬️🩺**
 
 A non-invasive diagnostic tool leveraging gas sensors and deep learning to detect diseases through exhaled breath biomarkers.
 
@@ -23,4 +23,4 @@ Sensor array optimization for improved specificity.
 Multi-disease classification models (COPD, asthma).
 Clinical validation trials for real-world reliability.
 
-(Designed to bridge gaps in non-invasive diagnostics by tackling hardware limitations and algorithmic precision.)
+_Designed to bridge gaps in non-invasive diagnostics by tackling hardware limitations and algorithmic precision._
