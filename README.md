@@ -1,7 +1,14 @@
 BREATH-BASED BIO SIGNAL ANALYZER FOR DISEASE DETECTION 
 
 
-![WhatsApp Image 2025-03-08 at 10 56 20_fa01e5a7](https://github.com/user-attachments/assets/8ed90f6e-4f99-4942-8ee6-3248b8434567)
+![WhatsApp Image 2025-03-17 at 19 57 16_c29557ba](https://github.com/user-attachments/assets/f6701a7b-b4ea-49d7-984f-e466c245ab4d)
+
+
+![WhatsApp Image 2025-03-17 at 20 05 14_a4f9dfea](https://github.com/user-attachments/assets/9a67b442-3865-4d51-9726-7a785bc7e58e)
+
+
+![WhatsApp Image 2025-03-17 at 20 03 04_cb15083a](https://github.com/user-attachments/assets/137b8b6d-c143-4603-b7fb-db27ee40caf3)
+
 
 
 A non-invasive diagnostic tool leveraging gas sensors and deep learning to detect diseases through exhaled breath biomarkers.
