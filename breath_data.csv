@@ -1,0 +1,251 @@
+MQ3,MQ135,Temperature,Humidity,Disease
+1.44,1.24,33.96,35.84,healthy
+2.88,1.46,30.72,76.99,diabetic
+2.33,2.63,26.19,61.39,diabetic and gastro intestinal
+2.0,1.29,36.28,46.75,diabetic
+0.89,0.92,33.69,36.96,healthy
+0.89,1.89,23.25,69.7,gastro intestinal
+0.65,2.84,38.22,61.0,gastro intestinal
+2.67,2.24,36.45,56.67,diabetic and gastro intestinal
+2.0,1.93,39.0,74.69,diabetic and gastro intestinal
+2.27,0.74,34.51,69.43,diabetic
+0.55,2.04,32.27,37.58,gastro intestinal
+2.92,2.98,28.36,45.59,diabetic and gastro intestinal
+2.58,0.85,38.65,42.42,diabetic
+1.03,1.8,37.32,67.2,gastro intestinal
+0.95,2.69,20.9,31.68,gastro intestinal
+0.96,2.35,20.53,58.49,gastro intestinal
+1.26,2.24,27.53,68.12,gastro intestinal
+1.81,2.26,36.21,73.84,diabetic and gastro intestinal
+1.58,1.4,39.75,47.1,healthy
+1.23,1.23,23.01,71.06,healthy
+2.03,2.52,31.88,35.53,diabetic and gastro intestinal
+0.85,2.53,27.62,72.32,gastro intestinal
+1.23,2.67,39.4,36.37,gastro intestinal
+1.42,2.78,36.84,49.86,gastro intestinal
+1.64,1.78,36.77,69.86,gastro intestinal
+2.46,1.75,29.37,37.5,diabetic and gastro intestinal
+1.0,2.5,28.3,41.46,gastro intestinal
+1.79,2.12,25.47,66.11,gastro intestinal
+1.98,2.25,21.13,66.0,diabetic and gastro intestinal
+0.62,2.49,37.29,62.06,gastro intestinal
+2.02,2.73,36.26,64.7,diabetic and gastro intestinal
+0.93,1.34,39.99,57.14,healthy
+0.66,1.44,39.93,42.59,healthy
+2.87,0.73,31.11,47.28,diabetic
+2.91,1.95,35.38,39.08,diabetic and gastro intestinal
+2.52,0.59,38.9,75.42,diabetic
+1.26,1.66,36.99,59.17,gastro intestinal
+0.74,1.86,24.95,50.04,gastro intestinal
+2.21,1.22,29.01,53.1,diabetic
+1.6,1.98,22.58,77.36,gastro intestinal
+0.81,0.58,39.08,37.67,healthy
+1.74,0.59,32.12,59.31,healthy
+0.59,2.56,24.57,55.29,gastro intestinal
+2.77,1.4,33.43,60.57,diabetic
+1.15,0.82,32.36,30.91,healthy
+2.16,1.81,27.16,73.61,diabetic and gastro intestinal
+1.28,2.42,22.27,76.61,gastro intestinal
+1.8,1.04,33.43,58.26,diabetic
+1.87,2.06,30.41,64.83,diabetic and gastro intestinal
+0.96,0.71,35.45,76.12,healthy
+2.92,0.63,30.4,65.36,diabetic
+2.44,1.83,37.04,37.63,diabetic and gastro intestinal
+2.85,1.85,31.04,58.81,diabetic and gastro intestinal
+2.74,2.09,31.22,60.34,diabetic and gastro intestinal
+1.99,2.32,37.53,51.21,diabetic and gastro intestinal
+2.8,2.94,28.07,66.82,diabetic and gastro intestinal
+0.72,1.79,22.68,76.72,gastro intestinal
+0.99,1.31,20.58,76.28,healthy
+0.61,2.49,35.1,52.54,gastro intestinal
+1.31,1.18,32.41,35.66,healthy
+1.47,1.6,34.08,79.24,gastro intestinal
+1.18,0.7,24.26,71.94,healthy
+2.57,0.56,22.73,36.23,diabetic
+1.39,2.91,20.29,76.04,gastro intestinal
+1.2,2.59,27.01,73.49,gastro intestinal
+1.86,2.24,31.8,55.94,diabetic and gastro intestinal
+0.85,1.52,27.84,59.56,gastro intestinal
+2.51,0.93,28.75,49.95,diabetic
+0.69,0.89,38.08,32.74,healthy
+2.97,1.13,26.97,46.76,diabetic
+2.43,1.87,30.28,70.14,diabetic and gastro intestinal
+1.0,2.29,35.67,30.23,gastro intestinal
+0.51,2.15,27.93,46.67,gastro intestinal
+2.54,1.2,32.44,49.91,diabetic
+2.27,2.89,37.25,56.87,diabetic and gastro intestinal
+2.32,2.34,38.99,75.99,diabetic and gastro intestinal
+2.43,1.89,22.94,47.32,diabetic and gastro intestinal
+0.69,2.03,38.53,47.35,gastro intestinal
+1.4,1.55,29.84,66.88,gastro intestinal
+0.79,1.12,25.16,52.61,healthy
+2.66,1.39,29.18,41.23,diabetic
+2.06,2.39,39.6,52.62,diabetic and gastro intestinal
+1.33,0.54,29.85,37.04,healthy
+0.66,0.79,26.58,38.82,healthy
+1.28,0.62,32.67,54.92,healthy
+1.31,0.6,24.8,50.95,healthy
+2.32,2.64,21.52,75.74,diabetic and gastro intestinal
+2.09,2.26,22.58,48.12,diabetic and gastro intestinal
+2.72,1.69,22.56,59.03,diabetic and gastro intestinal
+1.68,0.74,23.04,61.61,healthy
+0.8,1.73,22.78,30.65,gastro intestinal
+2.28,1.68,32.82,63.18,diabetic and gastro intestinal
+2.4,0.93,23.64,38.9,diabetic
+1.9,1.58,26.91,78.05,diabetic and gastro intestinal
+2.43,1.5,37.94,37.43,diabetic
+1.73,2.04,29.48,50.73,gastro intestinal
+1.81,2.09,33.35,34.27,diabetic and gastro intestinal
+1.57,0.61,23.45,79.84,healthy
+0.56,1.44,23.85,55.11,healthy
+0.77,2.06,20.82,59.77,gastro intestinal
+0.58,1.76,23.38,33.35,gastro intestinal
+2.09,2.64,25.57,67.5,diabetic and gastro intestinal
+1.29,2.15,23.54,40.5,gastro intestinal
+1.77,0.91,21.77,74.9,healthy
+2.77,0.68,22.41,40.26,diabetic
+1.12,2.11,29.22,39.53,gastro intestinal
+1.53,0.57,24.13,31.83,healthy
+2.39,1.96,27.29,53.6,diabetic and gastro intestinal
+1.07,2.85,30.07,58.24,gastro intestinal
+0.69,1.94,33.81,33.29,gastro intestinal
+1.22,1.47,20.79,68.78,healthy
+0.9,2.11,35.99,52.66,gastro intestinal
+2.82,1.65,32.56,56.22,diabetic and gastro intestinal
+2.52,1.86,21.64,52.04,diabetic and gastro intestinal
+2.08,2.85,37.47,50.04,diabetic and gastro intestinal
+2.68,1.47,38.42,57.98,diabetic
+2.51,2.9,21.22,37.76,diabetic and gastro intestinal
+0.97,2.76,25.54,39.1,gastro intestinal
+2.73,0.99,36.12,73.09,diabetic
+1.85,0.67,34.97,77.31,diabetic
+2.52,0.75,23.69,48.67,diabetic
+2.74,0.55,24.19,43.54,diabetic
+1.3,0.74,27.41,62.2,healthy
+0.78,2.21,29.69,50.44,gastro intestinal
+1.07,0.68,32.37,31.27,healthy
+1.57,1.3,27.38,37.81,healthy
+2.55,2.61,29.25,65.8,diabetic and gastro intestinal
+2.65,0.56,34.95,62.95,diabetic
+0.52,2.54,20.73,31.35,gastro intestinal
+1.78,1.2,25.05,41.1,healthy
+1.54,0.8,34.27,41.55,healthy
+1.06,2.24,37.9,63.59,gastro intestinal
+0.8,2.07,30.23,30.99,gastro intestinal
+1.34,2.69,30.64,35.21,gastro intestinal
+2.86,2.34,22.14,70.0,diabetic and gastro intestinal
+1.31,2.51,28.95,38.93,gastro intestinal
+1.8,1.21,30.65,62.64,healthy
+2.26,0.94,24.85,41.91,diabetic
+1.41,2.38,25.38,34.97,gastro intestinal
+2.93,2.52,27.55,42.16,diabetic and gastro intestinal
+2.91,2.98,20.4,66.11,diabetic and gastro intestinal
+1.13,1.53,26.44,72.78,gastro intestinal
+1.74,1.43,24.23,71.51,healthy
+1.25,2.44,26.55,49.86,gastro intestinal
+1.21,1.35,22.4,63.4,healthy
+0.59,2.83,37.81,40.25,gastro intestinal
+2.02,2.65,31.87,44.66,diabetic and gastro intestinal
+1.76,1.57,33.58,74.82,gastro intestinal
+0.63,2.38,35.78,30.65,gastro intestinal
+1.2,2.39,29.97,34.28,gastro intestinal
+2.77,0.76,21.74,40.39,diabetic
+1.1,2.76,30.74,31.33,gastro intestinal
+0.86,1.76,31.74,39.07,gastro intestinal
+1.72,2.57,34.91,59.15,gastro intestinal
+2.96,1.3,28.63,51.07,diabetic
+1.11,2.74,22.55,74.63,gastro intestinal
+2.18,1.47,25.68,70.87,diabetic
+2.4,0.53,27.26,47.09,diabetic
+1.09,2.76,32.92,42.97,gastro intestinal
+2.32,0.73,31.42,48.98,diabetic
+1.42,1.3,27.12,59.51,healthy
+2.08,2.88,39.73,43.4,diabetic and gastro intestinal
+2.08,2.88,32.12,61.21,diabetic and gastro intestinal
+1.84,1.93,24.74,50.47,diabetic and gastro intestinal
+0.73,2.08,22.04,57.6,gastro intestinal
+2.59,1.62,23.06,51.81,diabetic and gastro intestinal
+1.3,1.23,24.92,44.72,healthy
+0.97,1.32,23.21,77.42,healthy
+0.6,2.18,23.73,68.18,gastro intestinal
+1.98,2.38,25.7,37.01,diabetic and gastro intestinal
+2.19,2.48,23.47,73.42,diabetic and gastro intestinal
+0.54,2.47,37.94,54.37,gastro intestinal
+1.78,0.73,21.6,74.73,healthy
+1.07,1.74,30.49,69.99,gastro intestinal
+2.11,0.64,28.21,51.26,diabetic
+0.94,1.87,39.65,31.12,gastro intestinal
+2.23,1.6,22.24,43.43,diabetic and gastro intestinal
+1.47,2.72,27.96,57.08,gastro intestinal
+2.84,1.38,39.39,61.67,diabetic
+0.84,0.79,37.31,42.89,healthy
+1.35,0.86,36.34,36.97,healthy
+0.78,2.4,25.16,71.75,gastro intestinal
+2.81,2.05,23.42,79.22,diabetic and gastro intestinal
+2.69,0.75,33.37,56.28,diabetic
+1.14,0.71,38.59,38.58,healthy
+2.15,2.25,31.14,43.62,diabetic and gastro intestinal
+2.54,0.68,31.43,30.92,diabetic
+1.89,2.55,25.6,75.71,diabetic and gastro intestinal
+1.82,2.27,35.39,35.89,diabetic and gastro intestinal
+1.1,0.7,23.74,58.83,healthy
+0.73,0.71,26.47,43.7,healthy
+2.74,2.97,28.51,57.71,diabetic and gastro intestinal
+2.75,1.44,30.15,62.57,diabetic
+2.08,1.43,24.85,71.49,diabetic
+1.35,2.53,22.3,40.32,gastro intestinal
+1.37,2.87,32.21,30.55,gastro intestinal
+2.31,2.97,25.77,36.84,diabetic and gastro intestinal
+2.74,2.38,31.62,75.0,diabetic and gastro intestinal
+2.72,1.44,23.09,73.69,diabetic
+2.45,0.71,29.62,59.87,diabetic
+2.11,2.44,30.65,60.03,diabetic and gastro intestinal
+0.71,1.9,21.04,63.25,gastro intestinal
+0.9,1.56,26.73,38.77,gastro intestinal
+2.75,2.77,22.69,75.72,diabetic and gastro intestinal
+2.02,0.78,21.27,50.94,diabetic
+0.52,1.73,39.8,49.16,gastro intestinal
+0.75,0.53,26.45,55.95,healthy
+2.16,1.67,36.2,32.35,diabetic and gastro intestinal
+0.51,0.64,25.09,38.31,healthy
+0.9,0.8,33.63,66.9,healthy
+1.87,0.79,35.2,34.14,diabetic
+2.23,2.12,31.91,60.16,diabetic and gastro intestinal
+2.13,2.37,29.43,42.27,diabetic and gastro intestinal
+1.06,1.96,28.24,49.46,gastro intestinal
+2.28,2.91,26.98,44.43,diabetic and gastro intestinal
+1.09,1.44,38.59,47.78,healthy
+1.31,1.21,36.61,65.95,healthy
+2.37,2.67,39.3,44.86,diabetic and gastro intestinal
+2.12,1.06,22.49,58.32,diabetic
+2.62,2.91,34.62,53.8,diabetic and gastro intestinal
+2.14,0.53,38.77,63.18,diabetic
+1.92,2.92,23.62,76.84,diabetic and gastro intestinal
+0.73,0.61,21.33,66.63,healthy
+1.42,2.73,34.82,40.75,gastro intestinal
+1.16,1.82,31.49,31.56,gastro intestinal
+1.11,2.98,36.84,43.11,gastro intestinal
+2.93,0.68,22.8,59.75,diabetic
+1.48,1.88,35.91,32.57,gastro intestinal
+2.73,2.92,24.03,54.82,diabetic and gastro intestinal
+2.08,1.81,23.27,59.84,diabetic and gastro intestinal
+2.49,2.07,23.29,46.71,diabetic and gastro intestinal
+1.76,2.24,36.29,68.55,gastro intestinal
+1.94,1.64,33.3,35.33,diabetic and gastro intestinal
+1.73,2.07,30.46,33.76,gastro intestinal
+0.99,1.96,27.18,66.41,gastro intestinal
+2.31,2.75,37.54,54.77,diabetic and gastro intestinal
+1.2,0.61,27.85,64.42,healthy
+0.56,1.2,36.33,51.74,healthy
+2.11,2.88,28.78,42.32,diabetic and gastro intestinal
+0.94,2.73,27.54,70.96,gastro intestinal
+2.85,1.64,29.25,69.97,diabetic and gastro intestinal
+2.88,2.05,26.03,64.73,diabetic and gastro intestinal
+2.79,1.19,34.95,43.61,diabetic
+1.43,0.97,30.05,59.51,healthy
+0.54,1.66,24.64,48.05,gastro intestinal
+2.82,1.38,37.99,34.58,diabetic
+1.57,1.96,27.68,75.87,gastro intestinal
+2.92,0.69,30.87,36.84,diabetic
+2.91,2.94,38.13,77.51,diabetic and gastro intestinal
+2.63,2.97,32.48,52.3,diabetic and gastro intestinal
